@@ -19,22 +19,22 @@ header {
 }
 
 footer {
-  background-color: rgba(136, 136, 136, 0);
+  background-color: rgba(136, 136, 136, 0.050);
   height: 80px;
   clear: both;
 }
 
 main {
-  background-color: rgba(0, 0, 255, 0);
+  background-color: rgba(0, 0, 255, 0.050);
   float: left;
-  width: 72%;
+  width: 60%;
   height: 800px;
   padding: 4px;
 }
 
 aside {
   float: left;
-  width: 27%;
-  background-color: rgba(65, 65, 173, 0);
+  width: 40%;
+  background-color: rgba(65, 65, 173, 0.050);
 
 }
