@@ -2,6 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background-image: url(../images/bg_image.jpg);
+  background-position: center center;
+  background-size: 100% 100%;
 }
 
 header {
@@ -26,14 +28,14 @@ footer {
 
 main {
   background-color: rgba(0, 0, 255, 0.050);
-  float: left;
-  width: 60%;
+  float: right;
+  width: 65%;
   height: 800px;
 }
 
 aside {
   float: left;
-  width: 40%;
+  width: 35%;
   background-color: rgba(65, 65, 173, 0.050);
 
 }
